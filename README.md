@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Yash 👋
 ### Product Manager | AI & SaaS Specialist 🚀
 
 I am a Product Manager focused on **Agentic AI** and **Vertical SaaS**, currently based in India and transitioning to the Singapore tech market. I specialize in turning complex technical capabilities into streamlined, user-centric products.
@@ -19,22 +19,15 @@ I am a Product Manager focused on **Agentic AI** and **Vertical SaaS**, currentl
 
 ---
 
-## 🏗️ Product Artifacts & Case Studies
-* [**Strategic PRD: Agentic AI Assistant**](./link-to-your-doc) - A deep dive into the logic, prompts, and success metrics.
-* [**Market Analysis: Singapore SaaS Landscape**](./link-to-your-doc) - Competitive teardown and entry strategy.
-* [**UI/UX Redesign: OMAS Platform**](./link-to-your-doc) - Documentation of the user flow and impact metrics.
-
----
-
 ## 💻 Tech Stack & Tools
 * **Product:** Jira, Linear, Notion, Figma, Miro.
 * **AI/ML:** AWS Bedrock, Claude API, Prompt Engineering.
-* **Data:** SQL, Mixpanel, Google Analytics.
+* **Data:** SQL, Opensearch, Google Analytics.
 * **Dev-Adjacent:** GitHub Flow, Markdown, API Testing (Postman).
 
 ---
 
 ## 📫 Let's Connect
-* 📍 Currently in: Raipur, India (Targeting: Bangalore / Hyderabad / Singapore)
-* 💼 [LinkedIn](Your-Link-Here)
-* 📧 [Your Email]
+* 📍 Currently in: Raipur, India (Targeting: Bangalore / Hyderabad)
+* 💼 https://www.linkedin.com/in/yash-tejas/ 
+* 📧 yashtejas88@gmail.com
